@@ -1,0 +1,6 @@
+{
+  "name": "NetStream",
+  "description": "Video streaming application inspired by Net77, Netflix, YouTube, and JioHotstar. Features movies, TV series, live streams, shorts, custom player controls, and watchlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
